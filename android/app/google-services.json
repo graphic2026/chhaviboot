@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "701923004743",
+    "project_id": "textconverter-final",
+    "storage_bucket": "textconverter-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701923004743:android:17e6d1fd3918e9ea737c62",
+        "android_client_info": {
+          "package_name": "com.example.chhaviboot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701923004743-ambnav8e2sa18j13v3vr4f37vpq0s19j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm3g9VkcHNtRuwUFszZ7BnpUcKll4Uics"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701923004743-ambnav8e2sa18j13v3vr4f37vpq0s19j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

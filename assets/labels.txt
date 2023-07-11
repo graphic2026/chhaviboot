@@ -1,0 +1,6 @@
+0 Chihuahua
+1 Japanese_spaniel
+2 Maltese_dog
+3 Afghan_hound
+4 German_shepherd
+5 Doberman
